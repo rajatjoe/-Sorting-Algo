@@ -1,0 +1,4 @@
+MERGE SORT: 
+Array stage: 3 6 7 
+Array stage: 3 6 7 
+Merge Sort - Sorted Form: 3 6 7 
